@@ -43,7 +43,7 @@ PM-Agency/
 
 Clone this repo:
 
-git clone https://github.com/yourusername/pm-agency.git
+git clone https://github.com/ParulUniversityMishraPankajKumar/PM-Agency.git
 
 
 Open index.html in your browser.
