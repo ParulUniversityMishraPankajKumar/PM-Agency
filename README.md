@@ -52,4 +52,4 @@ Customize content (text, images, colors) as per your agency.
 
 📌 Live Demo
 
-👉 [Add GitHub Pages or Netlify link here]
+👉 [https://paruluniversitymishrapankajkumar.github.io/PM-Agency/]
