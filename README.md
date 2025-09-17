@@ -37,7 +37,7 @@ PM-Agency/
 │── /css               # Stylesheets  
 │── /js                # JavaScript files  
 │── /img               # Images & assets  
-│── /vendor            # Bootstrap & other libraries  
+ 
 
 🚀 Getting Started
 
